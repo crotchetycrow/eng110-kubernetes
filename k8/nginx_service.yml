@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: eng110-nginx-service
+spec:
+  selector:
+    app: eng110-docker-test/eng110_nginx
+  ports:
+     - port: 6000
+      targetPort: 5000
+

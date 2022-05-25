@@ -1,5 +1,10 @@
 # Kubernetes
 
+- [Creating a K8 cluster for nginx](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_cluster_nginx.md)
+- [Creating a K8 cluster for nodeapp](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_nodeapp.md)
+- [Creating a K8 cluster for mongodb](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_mongodb.md)
+- [K8 Commands](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_cmd.md)
+
 ## What is Kubernetes?
 
 open source container orchestration platform that automates many of the manual processes involved in deploying, managing, and scaling containerized applications.

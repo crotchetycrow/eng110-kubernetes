@@ -5,6 +5,8 @@
 - [Creating a K8 cluster for mongodb](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_mongodb.md)
 - [K8 Commands](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_cmd.md)
 
+![](/img/k8_orchestration.png)
+
 ## What is Kubernetes?
 
 open source container orchestration platform that automates many of the manual processes involved in deploying, managing, and scaling containerized applications.
@@ -24,6 +26,8 @@ open source container orchestration platform that automates many of the manual p
 - Storage orchestration
 
 ## Types of Kubernetes services
+
+![](/img/k8_services.png)
 
 ## What is Kubernetes cluster?
 

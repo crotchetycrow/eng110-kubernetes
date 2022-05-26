@@ -9,3 +9,5 @@
 `kubectl get namespace` - lists all namespaces available
 
 `kubectl describe svc kubernetes` - More information on specific service
+
+`kubectl taint nodes --all node-role.kubernetes.io/master-` - untaints nodes

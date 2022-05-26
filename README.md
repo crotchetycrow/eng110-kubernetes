@@ -3,6 +3,7 @@
 - [Creating a K8 cluster for nginx](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_cluster_nginx.md)
 - [Creating a K8 cluster for nodeapp](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_nodeapp.md)
 - [Creating a K8 cluster for mongodb](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_mongodb.md)
+- [Creating a K8 cluster on an EC2](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_ec2_cluster.md)
 - [K8 Commands](https://github.com/crotchetycrow/eng110-kubernetes/blob/main/documentation/k8_cmd.md)
 
 ## What is microservice architecture?

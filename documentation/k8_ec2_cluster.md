@@ -14,3 +14,5 @@ FLANNEL_SUBNET=10.244.0.1/24
 FLANNEL_MTU=1450
 FLANNEL_IPMASQ=true
 ```
+
+ec2 security group - allow custom tcp (whatever port used) any ipv4

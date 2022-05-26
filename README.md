@@ -7,7 +7,8 @@
 
 ## What is microservice architecture?
 
-- Large application divided into separate parts
+Large application divided into separate parts
+
 - SRP
 
 ### Benefits?
@@ -27,7 +28,7 @@
 
 ## What is monolithic architecture?
 
-- Application built in one unified model
+Application built in one unified model
 
 ### Benefits?
 

@@ -89,6 +89,10 @@ K8 cluster is a dynamic system that places and manages containers, grouped toget
 
 A process that runs multiple instances of a Pod and keeps the specified number of Pods constant
 
+## LoadBalancer vs NodePort
+
+https://platform9.com/blog/understanding-kubernetes-loadbalancer-vs-nodeport-vs-ingress/
+
 ## Why adopt Kubernetes
 
 - 30.8% commercial growth to business - 3-5 years to get ROI

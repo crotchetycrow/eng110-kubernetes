@@ -23,3 +23,10 @@ ec2 security group - allow custom tcp (whatever port used) any ipv4
         operator: "Exists"
         effect: "NoSchedule"
 ```
+
+```
+spec:
+  type: LoadBalancer
+  externalIPs:
+  - IP
+```

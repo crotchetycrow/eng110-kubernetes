@@ -16,3 +16,10 @@ FLANNEL_IPMASQ=true
 ```
 
 ec2 security group - allow custom tcp (whatever port used) any ipv4
+
+```
+      tolerations:
+      - key: "node-role.kubernetes.io/control-plane"
+        operator: "Exists"
+        effect: "NoSchedule"
+```

@@ -58,10 +58,10 @@ spec:
       containers:
         - name: mongo
           image: mongo:3.6.17-xenial
-          # command:
-          #   - mongod
-          #   - "- bind_ip"
-          #   - "0.0.0.0"
+          command:
+            - mongod
+            - "- bind_ip"
+            - "0.0.0.0"
           ports:
             - containerPort: 27017
           volumeMounts:
